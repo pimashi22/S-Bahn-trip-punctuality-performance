@@ -1,0 +1,11 @@
+station_id,name,is_major_hub,location_category
+S1,Berlin Hauptbahnhof,True,city_center
+S2,Berlin Ostkreuz,True,city_center
+S3,Potsdam Hauptbahnhof,False,suburb
+S4,Friedrichstraße,True,city_center
+S5,Olympiastadion,False,event_venue
+S6,Flughafen BER,False,airport
+S7,Alexanderplatz,True,city_center
+S8,Charlottenburg,True,city_center
+S9,Berlin Südkreuz,True,city_center
+S10,Berlin-Spandau,False,suburb
