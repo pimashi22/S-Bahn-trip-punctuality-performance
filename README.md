@@ -90,7 +90,7 @@ The solution follows the industry-standard **Kimball three-tier Data Warehouse a
 └─────────────────────────────────────────────────────────────┘
 ```
 
-Full architecture documentation → [`[03_Architecture/architecture_notes.md](https://github.com/pimashi22/S-Bahn-trip-punctuality-performance/blob/main/03_Architecture/architecture_notes.md)`](Architecture/architecture_notes.md)
+Full architecture documentation → [`03_Architecture/architecture_notes.md`](Architecture/architecture_notes.md)
 
 ---
 
