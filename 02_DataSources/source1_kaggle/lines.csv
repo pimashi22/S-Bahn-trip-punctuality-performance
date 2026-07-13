@@ -1,0 +1,7 @@
+line_id,line_name,is_ring_line,delay_propensity
+S1,S1,False,0.7
+S2,S2,False,0.6
+S5,S5,False,0.8
+S7,S7,False,0.85
+S41,S41 (Ring),True,1.0
+S42,S42 (Ring),True,1.0
